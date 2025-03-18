@@ -1,0 +1,4 @@
+C:/Users/Paul/Desktop/Facultate/AN3/SEM1/GP/lab_11/cmake-build-debug/CMakeFiles/lab_11.dir
+C:/Users/Paul/Desktop/Facultate/AN3/SEM1/GP/lab_11/cmake-build-debug/CMakeFiles/imgui.dir
+C:/Users/Paul/Desktop/Facultate/AN3/SEM1/GP/lab_11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paul/Desktop/Facultate/AN3/SEM1/GP/lab_11/cmake-build-debug/CMakeFiles/rebuild_cache.dir

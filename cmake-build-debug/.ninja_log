@@ -1,0 +1,19 @@
+# ninja log v6
+61	771	7586702073176990	CMakeFiles/lab_11.dir/Shader.cpp.obj	7a323feabfb47c92
+66	723	7586702073236997	CMakeFiles/lab_11.dir/Camera.cpp.obj	fe36af1fed521fc7
+724	2512	7586702079816744	CMakeFiles/lab_11.dir/Mesh.cpp.obj	b1d91d4d2704a9d2
+1670	3547	7586702089271261	CMakeFiles/lab_11.dir/stb_image.cpp.obj	e35e24e7c3b234f1
+3425	4689	7586702106840658	CMakeFiles/lab_11.dir/SkyBox.cpp.obj	47053b76bf11b2
+771	3425	7586702080291930	CMakeFiles/lab_11.dir/Model3D.cpp.obj	44a50e5f2b571864
+2513	5165	7586702097697979	CMakeFiles/lab_11.dir/tiny_obj_loader.cpp.obj	152b51da9aad753
+12	2843	7586724508091323	CMakeFiles/lab_11.dir/main.cpp.obj	6cc7a6f21271fed0
+2844	8710	7586724536405246	lab_11.exe	7805cbaba8a5f99f
+5	480	7639481818825426	build.ninja	d0de8fc631cde4c1
+51	3597	7586702073086980	CMakeFiles/imgui.dir/third_party/imgui/backends/imgui_impl_opengl3.cpp.obj	9cc236d8baf3609a
+37	3548	7586702072946973	CMakeFiles/imgui.dir/third_party/imgui/imgui_tables.cpp.obj	6f265c95bf92a121
+46	5015	7586702073036982	CMakeFiles/imgui.dir/third_party/imgui/backends/imgui_impl_glfw.cpp.obj	4df1b2eb34102c06
+29	4122	7586702072871814	CMakeFiles/imgui.dir/third_party/imgui/imgui_draw.cpp.obj	c4aff3ac23404fc8
+33	4554	7586702072901858	CMakeFiles/imgui.dir/third_party/imgui/imgui_widgets.cpp.obj	e83dd33ffcc90c86
+18	5613	7586702072751810	CMakeFiles/imgui.dir/third_party/imgui/imgui.cpp.obj	52ac7d60a2241630
+5613	5905	7586702128703752	libimgui.a	8540eb77b5355a06
+42	1670	7586702072996977	CMakeFiles/imgui.dir/third_party/imgui/imgui_demo.cpp.obj	f3c42dd7e87a376b
